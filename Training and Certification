@@ -1,0 +1,27 @@
+<section id="certifications" style="font-family: Arial, sans-serif; margin: 40px;">
+    <h2 style="font-size: 28px; margin-bottom: 20px; color: #1a1a1a;">
+        Certifications & Training
+    </h2>
+
+    <ul style="list-style: none; padding: 0; line-height: 1.6; font-size: 18px;">
+
+        <li style="margin-bottom: 15px;">
+            <strong>Canadian Council on Animal Care (CCAC) Training</strong>, 
+            Dalhousie University  
+            <br>
+            <a href="YOUR_LINK_HERE" target="_blank">View Certificate</a>
+        </li>
+
+        <li style="margin-bottom: 15px;">
+            <strong>Machine Learning and Deep Learning Course</strong>, IBM  
+            <br>
+            <a href="YOUR_LINK_HERE" target="_blank">View Certificate</a>
+        </li>
+
+        <li style="margin-bottom: 15px;">
+            <strong>WHMIS Certification</strong>, Dalhousie University  
+            <br>
+            <a href="YOUR_LINK_HERE" target="_blank">View Certificate</a>
+        </li>
+
+        <l
